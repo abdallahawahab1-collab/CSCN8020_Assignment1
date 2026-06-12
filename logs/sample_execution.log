@@ -1,36 +1,36 @@
-2026-06-12 13:50:21,653 | INFO | Starting synchronous value iteration: gamma=0.9 theta=1e-08
-2026-06-12 13:50:21,656 | INFO | VI iteration=1 delta=10.0000000000
-2026-06-12 13:50:21,657 | INFO | VI iteration=2 delta=9.0000000000
-2026-06-12 13:50:21,659 | INFO | VI iteration=3 delta=8.1000000000
-2026-06-12 13:50:21,662 | INFO | VI iteration=4 delta=7.2900000000
-2026-06-12 13:50:21,664 | INFO | VI iteration=5 delta=6.5610000000
-2026-06-12 13:50:21,667 | INFO | VI iteration=6 delta=5.9049000000
-2026-06-12 13:50:21,669 | INFO | VI iteration=7 delta=5.3144100000
-2026-06-12 13:50:21,671 | INFO | VI iteration=8 delta=4.7829690000
-2026-06-12 13:50:21,674 | INFO | VI iteration=9 delta=4.3046721000
-2026-06-12 13:50:21,676 | INFO | VI iteration=10 delta=0.0000000000
-2026-06-12 13:50:21,677 | INFO | Finished VI iterations=10 time=0.021765
-2026-06-12 13:50:21,679 | INFO | Starting in-place value iteration: gamma=0.9 theta=1e-08
-2026-06-12 13:50:21,681 | INFO | In-place VI iteration=1 delta=10.0000000000
-2026-06-12 13:50:21,684 | INFO | In-place VI iteration=2 delta=9.0000000000
-2026-06-12 13:50:21,687 | INFO | In-place VI iteration=3 delta=8.1000000000
-2026-06-12 13:50:21,688 | INFO | In-place VI iteration=4 delta=7.2900000000
-2026-06-12 13:50:21,690 | INFO | In-place VI iteration=5 delta=6.5610000000
-2026-06-12 13:50:21,692 | INFO | In-place VI iteration=6 delta=5.9049000000
-2026-06-12 13:50:21,696 | INFO | In-place VI iteration=7 delta=5.3144100000
-2026-06-12 13:50:21,697 | INFO | In-place VI iteration=8 delta=4.7829690000
-2026-06-12 13:50:21,699 | INFO | In-place VI iteration=9 delta=4.3046721000
-2026-06-12 13:50:21,701 | INFO | In-place VI iteration=10 delta=0.0000000000
-2026-06-12 13:50:21,703 | INFO | Finished in-place VI iterations=10 time=0.021827
-2026-06-12 13:50:22,578 | INFO | Starting off-policy MC: gamma=0.9 episodes=20000
-2026-06-12 13:50:22,908 | INFO | MC episode=2000/20000
-2026-06-12 13:50:23,288 | INFO | MC episode=4000/20000
-2026-06-12 13:50:23,683 | INFO | MC episode=6000/20000
-2026-06-12 13:50:24,036 | INFO | MC episode=8000/20000
-2026-06-12 13:50:24,376 | INFO | MC episode=10000/20000
-2026-06-12 13:50:24,708 | INFO | MC episode=12000/20000
-2026-06-12 13:50:25,056 | INFO | MC episode=14000/20000
-2026-06-12 13:50:25,401 | INFO | MC episode=16000/20000
-2026-06-12 13:50:25,750 | INFO | MC episode=18000/20000
-2026-06-12 13:50:26,074 | INFO | MC episode=20000/20000
-2026-06-12 13:50:26,077 | INFO | Finished MC episodes=20000 time=3.496295
+2026-06-12 10:19:51,181 | INFO | Starting synchronous value iteration: gamma=0.9 theta=1e-08
+2026-06-12 10:19:51,188 | INFO | VI iteration=1 delta=10.0000000000
+2026-06-12 10:19:51,193 | INFO | VI iteration=2 delta=9.0000000000
+2026-06-12 10:19:51,196 | INFO | VI iteration=3 delta=8.1000000000
+2026-06-12 10:19:51,201 | INFO | VI iteration=4 delta=7.2900000000
+2026-06-12 10:19:51,205 | INFO | VI iteration=5 delta=6.5610000000
+2026-06-12 10:19:51,209 | INFO | VI iteration=6 delta=5.9049000000
+2026-06-12 10:19:51,217 | INFO | VI iteration=7 delta=5.3144100000
+2026-06-12 10:19:51,224 | INFO | VI iteration=8 delta=4.7829690000
+2026-06-12 10:19:51,230 | INFO | VI iteration=9 delta=4.3046721000
+2026-06-12 10:19:51,233 | INFO | VI iteration=10 delta=0.0000000000
+2026-06-12 10:19:51,236 | INFO | Finished VI iterations=10 time=0.048801
+2026-06-12 10:19:51,242 | INFO | Starting in-place value iteration: gamma=0.9 theta=1e-08
+2026-06-12 10:19:51,251 | INFO | In-place VI iteration=1 delta=10.0000000000
+2026-06-12 10:19:51,254 | INFO | In-place VI iteration=2 delta=9.0000000000
+2026-06-12 10:19:51,258 | INFO | In-place VI iteration=3 delta=8.1000000000
+2026-06-12 10:19:51,263 | INFO | In-place VI iteration=4 delta=7.2900000000
+2026-06-12 10:19:51,267 | INFO | In-place VI iteration=5 delta=6.5610000000
+2026-06-12 10:19:51,273 | INFO | In-place VI iteration=6 delta=5.9049000000
+2026-06-12 10:19:51,276 | INFO | In-place VI iteration=7 delta=5.3144100000
+2026-06-12 10:19:51,279 | INFO | In-place VI iteration=8 delta=4.7829690000
+2026-06-12 10:19:51,283 | INFO | In-place VI iteration=9 delta=4.3046721000
+2026-06-12 10:19:51,286 | INFO | In-place VI iteration=10 delta=0.0000000000
+2026-06-12 10:19:51,290 | INFO | Finished in-place VI iterations=10 time=0.039074
+2026-06-12 10:19:53,500 | INFO | Starting off-policy MC: gamma=0.9 episodes=20000
+2026-06-12 10:19:54,152 | INFO | MC episode=2000/20000
+2026-06-12 10:19:54,667 | INFO | MC episode=4000/20000
+2026-06-12 10:19:55,154 | INFO | MC episode=6000/20000
+2026-06-12 10:19:55,607 | INFO | MC episode=8000/20000
+2026-06-12 10:19:56,091 | INFO | MC episode=10000/20000
+2026-06-12 10:19:56,582 | INFO | MC episode=12000/20000
+2026-06-12 10:19:57,028 | INFO | MC episode=14000/20000
+2026-06-12 10:19:57,507 | INFO | MC episode=16000/20000
+2026-06-12 10:19:57,937 | INFO | MC episode=18000/20000
+2026-06-12 10:19:58,407 | INFO | MC episode=20000/20000
+2026-06-12 10:19:58,409 | INFO | Finished MC episodes=20000 time=4.905321
